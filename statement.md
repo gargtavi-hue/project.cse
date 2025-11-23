@@ -13,7 +13,7 @@ University students often struggle to keep track of their daily expenses (food, 
 3. Users who prefer offline tools over cloud apps
 
 # High-Level Features
-1.User Menu: A loop-based navigation system.
-2.Transaction Logging: Capturing detailed expense data.
-3.File Handling: Reading and writing to expenses.json.
-4.Summary Generation: Mathematical aggregation of costs.
+1. User Menu: A loop-based navigation system.
+2. Transaction Logging: Capturing detailed expense data.
+3. File Handling: Reading and writing to expenses.json.
+4. Summary Generation: Mathematical aggregation of costs.
