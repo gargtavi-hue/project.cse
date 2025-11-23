@@ -17,6 +17,7 @@ The Student Budget Tracker is a Python-based command-line application designed t
 2. Download this repository.
 3. Open a terminal/command prompt in the project folder.
 4. Run the following command:
+   
    python main.py
 # Instructions for Testing
 1. Select option 1 to add an expense (e.g., Food, 50, Lunch).
